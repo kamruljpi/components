@@ -84,7 +84,7 @@ var List = map[string]string{"login": `{{define "login"}}
 
     <div class="text-center text-muted">
         <small>
-            <strong>Powered by <a href="https://github.com/GoAdminGroup/go-admin"
+            <strong>Powered by <a href="https://github.com/kamruljpi/go-admin"
                                   target="_blank">GoAdmin</a></strong>
         </small>
     </div>

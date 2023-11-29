@@ -8,14 +8,14 @@ import (
 	textTemplate "text/template"
 	"time"
 
-	"github.com/GoAdminGroup/components/login/theme1"
-	"github.com/GoAdminGroup/go-admin/modules/logger"
-	"github.com/GoAdminGroup/go-admin/modules/utils"
-	captcha2 "github.com/GoAdminGroup/go-admin/plugins/admin/modules/captcha"
-	template2 "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/login"
+	"github.com/kamruljpi/components/login/theme1"
+	"github.com/kamruljpi/go-admin/modules/logger"
+	"github.com/kamruljpi/go-admin/modules/utils"
+	captcha2 "github.com/kamruljpi/go-admin/plugins/admin/modules/captcha"
+	template2 "github.com/kamruljpi/go-admin/template"
+	"github.com/kamruljpi/go-admin/template/login"
 	"github.com/dchest/captcha"
-	"github.com/GoAdminGroup/go-admin/template/types"
+	"github.com/kamruljpi/go-admin/template/types"
 )
 
 var themes = map[string]Theme{

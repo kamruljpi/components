@@ -2,7 +2,7 @@ all: remove-no-use combine compile
 
 check:
 	ifeq (, $(shell which adm))
-		$(error "adm not found, consider doing: go install github.com/GoAdminGroup/go-admin/adm")
+		$(error "adm not found, consider doing: go install github.com/kamruljpi/go-admin/adm")
 	endif
 
 remove-no-use:

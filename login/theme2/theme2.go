@@ -1,8 +1,8 @@
 package theme2
 
 import (
-	"github.com/GoAdminGroup/components/login"
-	"github.com/GoAdminGroup/go-admin/template"
+	"github.com/kamruljpi/components/login"
+	"github.com/kamruljpi/go-admin/template"
 )
 
 type Theme2 struct{
